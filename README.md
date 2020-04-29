@@ -38,5 +38,5 @@
 ```
 
 
-## 成果物
-- サンプル　`ampanman1_reduce.pdf`
+## 成果物のサンプル
+- `ampanman1_reduce.pdf`
