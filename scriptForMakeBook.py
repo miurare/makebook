@@ -61,7 +61,7 @@ def print_string(pdf_canvas,path,filename,title):
     
     # 左右のページ番号をあわせてプリントしていく。
     for page in range(npaper*2-1):
-        page_pair = npaper*4 - 2 - page
+        page_pair = npaper*4 - 3 - page
         
         if page%2 == 0:
             leftpage = page
