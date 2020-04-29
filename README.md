@@ -39,4 +39,4 @@
 
 
 ## 成果物のサンプル
-- `ampanman1_reduce.pdf`
+- `samples/samples.pdf`
